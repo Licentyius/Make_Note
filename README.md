@@ -16,7 +16,7 @@ work with images of your inspiration at your bequest.
 
 # Outside of MH2:
 
-<img src="reference/notepad_working.png" alt="Demo Image" width="500">
+<img src="reference/alone.png" alt="Demo Image" width="500">
   
 
   
