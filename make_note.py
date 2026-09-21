@@ -1,14 +1,7 @@
 """
-MakeHuman 2 Studio Notes Extension V 1.0 by Elvaerwyn_MH2 2026
+MakeHuman 2 Studio Notes Extension V 1.0 by Elvaerwyn_MH2 2026 and contributions by Black_Punkduck
 A drop-in notepad panel featuring standard tools and named profiles.
 Fully Hybrid tool for standalone use and native MH2 docking with plugin panel layouts testing.
-
-black-punkduck:
- * added connection to pluginRepo in MakeHuman2
- * changed file not to use globals anymore (no possible conflicts)
- * use the same order: definition of gui, load extension, unload extension + __main__ for standalone
- * outputs into cli now use logline. added dummies for standalone to use a logLine dummy
- * changed QFileDialog, QColorDialog not to crash in case of OpenGL on Linux
 """
 
 import os
